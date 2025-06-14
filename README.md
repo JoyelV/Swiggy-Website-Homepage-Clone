@@ -30,7 +30,7 @@ This project is a static clone of the Swiggy homepage, a food delivery platform,
 ## File Structure
 ```
 ├── swiggy.html       # Main HTML file
-├── style.css         # Custom CSS for styling
+├── index.css         # Custom CSS for styling
 ├── images/           # Folder containing images
 │   ├── logo1.png
 │   ├── banner1.webp
